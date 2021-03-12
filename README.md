@@ -1,9 +1,12 @@
 # Data Science Python studies repository
 
+Study Python libs most used in data analysis.
 
 ## References
 
-https://numpy.org/
+[Numpy Doc](https://numpy.org/)
+
+[Pandas Doc](https://pandas.pydata.org/docs/)
 
 https://cursos.alura.com.br/course/python-intro
 
