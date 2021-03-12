@@ -8,3 +8,5 @@ https://numpy.org/
 https://cursos.alura.com.br/course/python-intro
 
 https://cursos.alura.com.br/course/python-tipos-listas-numpy/
+
+https://cursos.alura.com.br/course/python-funcoes-pacotes-pandas
